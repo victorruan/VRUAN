@@ -1,0 +1,15 @@
+{
+  "minimum-stability":"dev",
+  "require": {
+    "noahbuscher/macaw": "dev-master",
+    "illuminate/database": "*",
+    "yiisoft/yii2": "^2.0",
+    "workerman/workerman": "^3.3"
+  },
+  "autoload": {
+    "classmap": [
+      "app/controllers/",
+      "app/models/"
+    ]
+  }
+}
