@@ -1,4 +1,5 @@
 {
+  "name":"victorruan/VRUAN",
   "minimum-stability":"dev",
   "require": {
     "noahbuscher/macaw": "dev-master",
